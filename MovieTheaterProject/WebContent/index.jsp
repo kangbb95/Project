@@ -9,6 +9,7 @@
 <body>
 	<%@include file="/WEB-INF/views/common/header.jsp"%>
 	<div class="container">
+	<h1>깃테스트</h1>
 	</div>
 	<%@include file="/WEB-INF/views/common/footer.jsp"%>
 
